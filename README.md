@@ -8,7 +8,7 @@ This service responds to
     http://...:8080/greeting?name={name}
 
 ## Steps
-The following steps desribe the process for building, deploying and exposing the service on GCP GKE.
+The following steps desribe the process for building, deploying and exposing the service on GCP GKE with GCloud.
 
 Compile the Java code
 
